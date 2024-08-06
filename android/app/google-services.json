@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "863472465679",
+    "project_id": "ecomm-qgph2k",
+    "storage_bucket": "ecomm-qgph2k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863472465679:android:2d5248e6eb6c7e6a9ff07a",
+        "android_client_info": {
+          "package_name": "io.builderking.hiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863472465679-fu3f6funpn6a3o188lfir0m8jbl20q9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_8KJoZD72tfd9BMWPVKWsidGC3R45A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863472465679-fu3f6funpn6a3o188lfir0m8jbl20q9a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863472465679-2mo26b3oiqms8ok0lggllq1ht8pfbmbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.builderking.hiva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
